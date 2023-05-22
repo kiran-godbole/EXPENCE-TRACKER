@@ -1,0 +1,44 @@
+* {
+    /* box-sizing: border-box; */
+    /* background-color: rgb(238, 238, 245); */
+} 
+body{
+    margin: 25px;
+    padding: 30px;
+    width: 50%;
+    border: 3px solid rgb(51, 220, 119);
+    text-align: center;
+    /* background-color: rgb(59, 108, 108); */
+    
+    
+}
+#msg {
+    color: red;
+}
+
+.heading{
+    border: 2px solid rgb(1, 1, 1);
+    color: rgb(8, 8, 8);
+    background-color: rgb(51, 220, 119);
+    border-radius: 15px;
+    padding: 5px;
+
+}
+
+.subheading{
+    margin: 10px 0px 10px 0px;
+    /* border: 5px solid rgb(51, 220, 119); */
+    padding: 5px;
+}
+
+#form{
+    color: black;
+}
+
+input{
+    width: 100%;
+}
+
+.add{
+
+}
